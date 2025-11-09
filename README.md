@@ -1,6 +1,6 @@
 # Hi, I'm Adeel Asghar 👋
 
-![Robotics Banner](https://upload.wikimedia.org/wikipedia/commons/9/91/Robot_arm_banner.png)
+![Robotics Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.robots.com%2Farticles%2Fbuying-a-refurbished-robot&psig=AOvVaw345Kbvg5J03aAjK4b0GD0n&ust=1762790485671000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC0p8K45ZADFQAAAAAdAAAAABAE)
 
 
 
