@@ -1,31 +1,45 @@
-<h1 align="center">Hi 👋, I'm Adeel Asghar</h1>
-<h3 align="center">A passionate Ai Engineer special in DRL</h3>
+# Hi, I'm Adeel Asghar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeel-asghar-05&label=Profile%20views&color=0e75b6&style=flat" alt="Adeel-Asghar-05" /> </p>
+![Header](https://raw.githubusercontent.com/github/explore/main/topics/robotics/robotics.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeel-asghar-05" alt="Adeel-Asghar-05" /></a> </p>
+**Deep Reinforcement Learning (DRL) & AI Researcher | Robotics & Automation Enthusiast**  
 
-- 🔭 I’m currently working on **Robotic to walk**
+I am a Deep Reinforcement Learning (DRL) and Artificial Intelligence researcher with expertise in developing intelligent, adaptive, and real-time learning systems for robotics, computer vision, and automation.  
 
-- 🌱 I’m currently learning **Agentic Ai**
+Over the past 1.5 years, I have actively contributed to research on reinforcement learning algorithms and their integration with computer vision and robotic control. I design 3D robotic components using **Fusion 360** and develop **URDF-based simulation environments** to validate and optimize AI-driven behaviors.
 
-- 👯 I’m looking to collaborate on **Deep reinforcement learning projects**
+I contribute to research by collaborating on dataset creation, model optimization, and manuscript preparation, supporting interdisciplinary projects bridging AI and robotics. My goal is to advance **interpretable, efficient, and deployable AI systems**, connecting theoretical innovation with real-world robotic and embedded systems applications.
 
-- 🤝 I’m looking for help with **Trading using DRL**
+---
 
-- 💬 Ask me about **Simulation & DRL problems**
+## 🚀 Skills & Expertise
 
-- 📫 How to reach me **adeelasghar2405@gmail.com**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyBullet](https://img.shields.io/badge/PyBullet-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF6600?style=for-the-badge)
 
-- ⚡ Fun fact **bridging the gap between theoretical AI to real world applications**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🏆 Projects & Contributions
+- **YOLO-RoboSortLite** – Real-time waste-sorting robotic arm  
+  ![YOLO-RoboSortLite](https://raw.githubusercontent.com/username/repo/main/images/robosort.png)  
+- **Robotics Simulation Environments** – URDF-based setups for RL experiments  
+- **Dataset Creation & Model Development** – Supporting AI-robotics research projects  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeel-asghar-05&show_icons=true&locale=en&layout=compact" alt="adeel-asghar-05" /></p>
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/adeel-asghar-0538802b1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeelasghar2405@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeel-asghar-05&show_icons=true&locale=en" alt="adeel-asghar-05" /></p>
+---
+
+## 📊 GitHub Stats
+![Adeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+## ⚡ Fun Fact
+I enjoy bridging the gap between theoretical AI research and real-world robotic applications, making machines smarter and more capable every day!  
