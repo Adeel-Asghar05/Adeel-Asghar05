@@ -36,12 +36,11 @@ I contribute to research by collaborating on dataset creation, model optimizatio
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeelasghar2405@gmail.com)
 
 ---
+## 📝 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel-Asghar05&layout=compact&theme=radical)
 
 ## 📊 GitHub Stats
 ![Adeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeel-Asghar05&show_icons=true&theme=radical)
-
-## 📝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel-Asghar05&layout=compact&theme=radical)
 
 ---
 
