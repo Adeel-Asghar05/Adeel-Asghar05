@@ -1,6 +1,7 @@
 # Hi, I'm Adeel Asghar 👋
 
-![Robotics](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Robot_icon.svg/600px-Robot_icon.svg.png)
+![Robotics Banner](https://upload.wikimedia.org/wikipedia/commons/9/91/Robot_arm_banner.png)
+
 
 **Deep Reinforcement Learning (DRL) & AI Researcher | Robotics & Automation Enthusiast**  
 
