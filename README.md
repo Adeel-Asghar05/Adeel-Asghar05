@@ -1,8 +1,6 @@
 # Hi, I'm Adeel Asghar 👋
 
- ![YOLO RoboSort](https://media.giphy.com/media/3o6gDWzmAzrpi5DQUg/giphy.gif)
-
-
+![Robotic Arm](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2o5ZTJ2aTR3anpwbjB3bHkyY3JlanUzbjk2ZHdqemJqd2Fjcm1jMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3b9PwTBJemaSdSKFxR/giphy.webp)
 
 **Deep Reinforcement Learning (DRL) & AI Researcher | Robotics & Automation Enthusiast**  
 
@@ -16,11 +14,12 @@ I contribute to research by collaborating on dataset creation, model optimizatio
 
 ## 🚀 Skills & Expertise
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyBullet](https://img.shields.io/badge/PyBullet-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![Fusion360](https://img.shields.io/badge/Fusion360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FF6600?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&logoWidth=40)](https://www.python.org/)
+[![PyBullet](https://img.shields.io/badge/PyBullet-FF6F00?style=for-the-badge&logo=google&logoColor=white&logoWidth=40)](https://pybullet.org/)
+[![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white&logoWidth=40)](https://www.autodesk.com/products/fusion-360/)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=40)](https://www.tensorflow.org/)
+[![YOLO](https://img.shields.io/badge/YOLO-FF6600?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)](https://pjreddie.com/darknet/yolo/)
+
 
 ---
 
@@ -33,7 +32,7 @@ I contribute to research by collaborating on dataset creation, model optimizatio
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/adeel-asghar-0538802b1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeel-asghar-0538802b1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeelasghar2405@gmail.com)
 
 ---
@@ -41,7 +40,10 @@ I contribute to research by collaborating on dataset creation, model optimizatio
 ## 📊 GitHub Stats
 ![Adeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeel-Asghar05&show_icons=true&theme=radical)
 
+## 📝 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel-Asghar05&layout=compact&theme=radical)
+
 ---
 
 ## ⚡ Fun Fact
-I enjoy bridging the gap between theoretical AI research and real-world robotic applications, making machines smarter and more capable every day!  
+I enjoy bridging the gap between theoretical AI research and real-world robotic applications, making machines smarter and more capable every day!
