@@ -1,6 +1,6 @@
 # Hi, I'm Adeel Asghar 👋
 
-![Header](https://raw.githubusercontent.com/github/explore/main/topics/robotics/robotics.png)
+![Robotics](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Robot_icon.svg/1200px-Robot_icon.svg.png)
 
 **Deep Reinforcement Learning (DRL) & AI Researcher | Robotics & Automation Enthusiast**  
 
@@ -24,7 +24,7 @@ I contribute to research by collaborating on dataset creation, model optimizatio
 
 ## 🏆 Projects & Contributions
 - **YOLO-RoboSortLite** – Real-time waste-sorting robotic arm  
-  ![YOLO-RoboSortLite](https://raw.githubusercontent.com/username/repo/main/images/robosort.png)  
+  ![YOLO RoboSort](https://media.giphy.com/media/3o6gDWzmAzrpi5DQUg/giphy.gif)
 - **Robotics Simulation Environments** – URDF-based setups for RL experiments  
 - **Dataset Creation & Model Development** – Supporting AI-robotics research projects  
 
