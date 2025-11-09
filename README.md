@@ -37,7 +37,7 @@ I contribute to research by collaborating on dataset creation, model optimizatio
 ---
 
 ## 📊 GitHub Stats
-![Adeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Adeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adeel-Asghar05&show_icons=true&theme=radical)
 
 ---
 
