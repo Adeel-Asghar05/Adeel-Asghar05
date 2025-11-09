@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adeel Asghar</h1>
 <h3 align="center">A passionate Ai Engineer special in DRL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeel-asghar-05&label=Profile%20views&color=0e75b6&style=flat" alt="adeel-asghar-05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeel-asghar-05&label=Profile%20views&color=0e75b6&style=flat" alt="Adeel-Asghar-05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeel-asghar-05" alt="adeel-asghar-05" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeel-asghar-05" alt="Adeel-Asghar-05" /></a> </p>
 
 - 🔭 I’m currently working on **Robotic to walk**
 
