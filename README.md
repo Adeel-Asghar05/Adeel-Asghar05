@@ -1,6 +1,5 @@
 # Hi, I'm Adeel Asghar 👋
-
-![Robotic Arm](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2o5ZTJ2aTR3anpwbjB3bHkyY3JlanUzbjk2ZHdqemJqd2Fjcm1jMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3b9PwTBJemaSdSKFxR/giphy.webp)
+![figure1](https://github.com/user-attachments/assets/09a4a2c5-2c3f-4c88-b26d-f805420882d3)
 
 **Deep Reinforcement Learning (DRL) & AI Researcher | Robotics & Automation Enthusiast**  
 
