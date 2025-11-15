@@ -1,6 +1,6 @@
 # Hi, I'm Adeel Asghar 👋
 ![figure1](https://github.com/user-attachments/assets/09a4a2c5-2c3f-4c88-b26d-f805420882d3)
-(![robot](https://github.com/user-attachments/assets/e7119680-3fb1-4cd2-a7a2-c3b2dbebc756))
+![robot](https://github.com/user-attachments/assets/e7119680-3fb1-4cd2-a7a2-c3b2dbebc756)
 
 **Deep Reinforcement Learning (DRL) & AI Researcher | Robotics & Automation Enthusiast**  
 
